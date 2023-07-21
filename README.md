@@ -4,8 +4,9 @@ This repository is a collection of some of my key learnings during my XXXX - XXX
 
 ## Overview of Apprenticeship
 - **Host Company**:
+- American Express
 - **Duration**:
-- **Link to Portfolio Website**:
+- 15 Months (May 2022 - August 2023)
 
 ## Portfolio Introduction
 - Who you are
