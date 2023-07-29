@@ -16,3 +16,9 @@ This repository is a collection of some of my key learnings during my XXXX - XXX
 - The teams you have worked on
   <p>SRE/Document Upload (CTO Department)</p>
 - Your areas of interest
+  <ul>
+    <li>Mathematics</li>
+    <li>Data Science</li>
+    <li>DevOps</li>
+    <li>Computational Sciences</li>
+  </ul>
