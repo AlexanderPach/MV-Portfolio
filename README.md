@@ -10,7 +10,7 @@ This repository is a collection of some of my key learnings during my XXXX - XXX
 
 ## Portfolio Introduction
 - Who you are
-Alexander Pacheco
+<p>Alexander Pacheco</p>
 - Why you do what you do
 - The teams you have worked on
 - Your areas of interest
