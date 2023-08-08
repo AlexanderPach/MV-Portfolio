@@ -1,6 +1,6 @@
 # MV-Portfolio
 
-This repository is a collection of some of my key learnings during my XXXX - XXXX apprenticeship at COMPANY_HERE.
+This repository is a collection of some of my key learnings during my 2022-2023 apprenticeship at AMEX.
 
 ## Overview of Apprenticeship
 - **Host Company**:
