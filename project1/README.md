@@ -33,7 +33,7 @@ All dependencies have been set to update to the current version, it wasn't hard 
   <li><b>JF 3.6:</b> Can implement a RESTful API</li>
   <li><b>JF 4.8</b> Can identify and create test scenarios</li>
   <li><b>JF</b> 5.1 Knows relevant and up-to-date software testing frameworks and methodologies</li>
-  <li></li>
+  <li><b>JF 5.2</b> Understands how to test code and analyze results to correct errors found using unit testing</li>
   <li></li>
   <li></li>
 </ul>
