@@ -11,7 +11,6 @@ This project focused on authentication/authorization of users. This was implemen
 
 
 ## Technologies
-- List all technologies and versions here
 <ul>
   <li>Javascript / Node.JS</li>
   <li>Bcrypt: 5.1.0</li>
@@ -20,8 +19,6 @@ This project focused on authentication/authorization of users. This was implemen
   <li>Nodemon: 2.0.20</li>
   <li>JWT: 8.5.1</li>
 </ul>
-
-- Note any deployment tools as well
 
 ## Competencies
 ### JF XX.XX
