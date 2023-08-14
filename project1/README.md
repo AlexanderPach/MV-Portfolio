@@ -1,4 +1,4 @@
-## Project #1
+![image](https://github.com/AlexanderPach/MV-Portfolio/assets/33683097/eb3a0627-adb1-4171-b958-ef9831771311)## Project #1
 Give a high-level overview of the project purpose
 - What are the users?
 Frontend Developers
@@ -29,16 +29,11 @@ All dependencies have been set to update to the current version, it wasn't hard 
 - Note any deployment tools as well
 
 ## Competencies
-### JF XX.XX
-- List the full text of the job function first
-- Describe a situation where you demonstrated  this job function.
-- Summarize the actions you took to accomplish the goal. 
-- Emphasize the results of this action for your team or your learning. 
-- Connect the competentcy to this project
-
-### JF XX.XX
-- List the full text of the job function first
-- Describe a situation where you demonstrated  this job function.
-- Summarize the actions you took to accomplish the goal. 
-- Emphasize the results of this action for your team or your learning. 
-- Connect the competentcy to this project
+<ul>
+  <li><b>JF 3.6:</b> Can implement a RESTful API</li>
+  <li><b>JF 4.8</b> Can identify and create test scenarios</li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
