@@ -1,4 +1,4 @@
-![image](https://github.com/AlexanderPach/MV-Portfolio/assets/33683097/eb3a0627-adb1-4171-b958-ef9831771311)## Project #1
+## Project #1
 Give a high-level overview of the project purpose
 - What are the users?
 Frontend Developers
