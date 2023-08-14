@@ -11,9 +11,13 @@ It's not the original repo, but the YAML files create a workflow provided by Git
 
 
 ## Technologies
-- List all technologies and versions here
-- Include dependencies and versions
-- Note any deployment tools as well
+<ul>
+  <li>Javascript / Node.js</li>
+  <li>Docker</li>
+  <li>Github Actions</li>
+  <li>Jest: 5.16.5</li>
+  <li>React: 18.2.0</li>
+</ul>
 
 ## Competencies
 ### JF XX.XX
