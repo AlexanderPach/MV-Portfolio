@@ -1,12 +1,11 @@
 ## Project #2
-Give a high-level overview of the project purpose
-- What are the users?
-Teams who need a management system for controlling tickets inquiries related to their team/jobs.
-- What job does it form for them?
+- What are the users? <br>
+Teams who need a management system for controlling tickets inquiries related to their team/jobs;
+- What job does it form for them?  <br>
 It communicates a way to raise issues about task performed from the team.
-- What inspired you to make it?
+- What inspired you to make it? <br>
 My apprenticeship was based on an SRE background, it's something we are familiar with pretty often.
-- What features are the most important?
+- What features are the most important? <br>
 This project focused on authentication/authorization of users. This was implemented with JWT/Authorization Tokens(Bcrypt).
 
 
