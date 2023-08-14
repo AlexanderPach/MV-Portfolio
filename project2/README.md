@@ -21,16 +21,9 @@ This project focused on authentication/authorization of users. This was implemen
 </ul>
 
 ## Competencies
-### JF XX.XX
-- List the full text of the job function first
-- Describe a situation where you demonstrated  this job function.
-- Summarize the actions you took to accomplish the goal. 
-- Emphasize the results of this action for your team or your learning. 
-- Connect the competentcy to this project
-
-### JF XX.XX
-- List the full text of the job function first
-- Describe a situation where you demonstrated  this job function.
-- Summarize the actions you took to accomplish the goal. 
-- Emphasize the results of this action for your team or your learning. 
-- Connect the competentcy to this project
+<ul>
+  <li>JF 3.4: Can create a logical and maintainable codebase</li>
+  <li>JF 3.6: Can implement a RESTful API</li>
+  <li>JF 3.7: Can implement authentication and authorization to an API. </li>
+  <li>JF 3.8: Can encrypt sensitive data via hashing</li>
+</ul>
