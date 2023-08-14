@@ -1,14 +1,26 @@
 ## Project #2
 Give a high-level overview of the project purpose
 - What are the users?
+Teams who need a management system for controlling tickets inquiries related to their team/jobs.
 - What job does it form for them?
+It communicates a way to raise issues about task performed from the team.
 - What inspired you to make it?
+My apprenticeship was based on an SRE background, it's something we are familiar with pretty often.
 - What features are the most important?
-- Include relevant screenshots
+This project focused on authentication/authorization of users. This was implemented with JWT/Authorization Tokens(Bcrypt).
+
 
 ## Technologies
 - List all technologies and versions here
-- Include dependencies and versions
+<ul>
+  <li>Javascript / Node.JS</li>
+  <li>Bcrypt: 5.1.0</li>
+  <li>Express: 4.18.2</li>
+  <li>MongoDB: 4.10.0</li>
+  <li>Nodemon: 2.0.20</li>
+  <li>JWT: 8.5.1</li>
+</ul>
+
 - Note any deployment tools as well
 
 ## Competencies
