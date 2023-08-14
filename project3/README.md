@@ -20,16 +20,9 @@ It's not the original repo, but the YAML files create a workflow provided by Git
 </ul>
 
 ## Competencies
-### JF XX.XX
-- List the full text of the job function first
-- Describe a situation where you demonstrated  this job function.
-- Summarize the actions you took to accomplish the goal. 
-- Emphasize the results of this action for your team or your learning. 
-- Connect the competentcy to this project
-
-### JF XX.XX
-- List the full text of the job function first
-- Describe a situation where you demonstrated  this job function.
-- Summarize the actions you took to accomplish the goal. 
-- Emphasize the results of this action for your team or your learning. 
-- Connect the competentcy to this project
+<ul>
+  <li>JF 1.7: Can follow company, team or client approaches to continuous integration, version and source control</li>
+  <li>JF 2.4: Can create simple software designs to effectively communicate understanding of the program</li>
+  <li>JF 3.4: Can create a logical and maintainable codebase</li>
+  <li>JF 4.3: Is able to build, manage and deploy code into the relevant environment</li>
+</ul>
